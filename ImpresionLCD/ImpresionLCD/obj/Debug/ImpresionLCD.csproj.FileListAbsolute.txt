@@ -1,0 +1,7 @@
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\bin\Debug\ImpresionLCD.exe.config
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\bin\Debug\ImpresionLCD.exe
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\bin\Debug\ImpresionLCD.pdb
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\obj\Debug\ImpresionLCD.csprojResolveAssemblyReference.cache
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\obj\Debug\ImpresionLCD.csproj.CoreCompileInputs.cache
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\obj\Debug\ImpresionLCD.exe
+E:\programas en visual estudio\Impresion_LCD\ImpresionLCD\ImpresionLCD\obj\Debug\ImpresionLCD.pdb
